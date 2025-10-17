@@ -1,8 +1,18 @@
-# Overview
-A minimal HTML page that displays "Hello World" centered on the screen.
+# Hello World - Round 2
 
-# Setup
-- No build or dependencies. Just download and open the file.
+## Overview
+A simple Hello World web page. This round improves the text styling while preserving the same centered layout.
 
-# Usage
-- Open index.html in any modern web browser. The centered "Hello World" will be displayed.
+## Setup
+- No build steps required.
+- Open index.html in any modern web browser.
+
+## Usage
+- Double-click index.html or serve it via a simple static server.
+- You will see a centered “Hello World” message.
+
+## Improvements from Round 1 (Round 2)
+- Made the “Hello World” text larger.
+- Made the text bold.
+- Changed the text color to blue.
+- Kept the existing centered layout unchanged.
